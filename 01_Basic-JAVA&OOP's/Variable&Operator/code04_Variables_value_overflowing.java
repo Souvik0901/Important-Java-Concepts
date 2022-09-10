@@ -1,0 +1,10 @@
+public class code04_Variables_value_overflowing {
+    public static void main(String args[])
+    {
+        //overflow
+        int a= 130;
+        byte b =(byte)a;
+        System.out.println(a);
+        System.out.println(b);
+    }
+}
