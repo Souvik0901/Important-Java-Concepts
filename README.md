@@ -36,7 +36,7 @@
 *[-> Methods of Number, Char, String, Array Classes](_moreReadMe/importantMethods)*
 
 ### PROGRAMS :
-#### [Variables & Operators](java_basicsI_and_oops/variables_and_operators) | [Control Flow](java_basicsI_and_oops/control_flow) 
+#### [Variables & Operators](01_Basic-JAVA&OOP's/Class&Object) | [Control Flow](java_basicsI_and_oops/control_flow) 
 
 #### [Classes & Objects](java_basicsI_and_oops/class_and_object) | [static & this](java_basicsI_and_oops/static_and_this) | [Inner Classes](java_basicsI_and_oops/inner_class)
 
