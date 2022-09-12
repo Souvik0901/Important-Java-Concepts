@@ -29,7 +29,7 @@
 
 *[-> Java Features, Execution Process & JVM Internals](_moreReadMe/howItWorks)*
 
-*[-> Java Fundamentals & OOPS Concepts](java_basicsI_and_oops)*
+*[-> Java Fundamentals & OOPS Concepts](01_Basic-JAVA&OOP's/BasicQues)*
 
 *[-> Java OOPS - few points to remember](_moreReadMe/oopsRules)*
 
@@ -58,5 +58,5 @@
 
 #### [Arrays](java_basicsI_and_oops/arrays) | [Strings](java_basicsI_and_oops/strings) | [Date & Time](java_basicsI_and_oops/date_time) | [Misc](java_basicsI_and_oops/miscellaneous)
 
-.
+
 
