@@ -29,7 +29,7 @@
 
 *[-> Java Features, Execution Process & JVM Internals](_moreReadMe/howItWorks)*
 
-*[-> Java Fundamentals & OOPS Concepts](01_Basic-JAVA&OOP's/BasicQues)*
+*[-> Java Fundamentals & OOPS Concepts](01_Basic-JAVA&OOP's/BasicQues.md)*
 
 *[-> Java OOPS - few points to remember](_moreReadMe/oopsRules)*
 
