@@ -36,11 +36,19 @@
 *[-> Methods of Number, Char, String, Array Classes](_moreReadMe/importantMethods)*
 
 ### PROGRAMS :
-#### [Variables & Operators](01_Basic-JAVA&OOP's/Class&Object) | [Control Flow](java_basicsI_and_oops/control_flow) 
+#### [Variables & Operators](01_Basic-JAVA&OOP's/Variable&Operator) 
 
-#### [Classes & Objects](java_basicsI_and_oops/class_and_object) | [static & this](java_basicsI_and_oops/static_and_this) | [Inner Classes](java_basicsI_and_oops/inner_class)
+#### [Control Flow](java_basicsI_and_oops/control_flow) 
 
-#### [Inheritance (is-a)](java_basicsI_and_oops/inheritance) | [Association (has-a, part-of)](java_basicsI_and_oops/association)
+#### [Classes & Objects](01_Basic-JAVA&OOP's/Class&Object) 
+
+#### [static & this](01_Basic-JAVA&OOP's/Static_and_This)
+
+#### [Inner Classes](01_Basic-JAVA&OOP's/Inner_Class)
+
+#### [Inheritance (is-a)](01_Basic-JAVA&OOP's/Inheritance) 
+
+#### [Association (has-a, part-of)](java_basicsI_and_oops/association)
 
 #### [Overloading](java_basicsI_and_oops/method_overloading) | [Overriding](java_basicsI_and_oops/method_overriding) | [super & final](java_basicsI_and_oops/super_and_final)
 
