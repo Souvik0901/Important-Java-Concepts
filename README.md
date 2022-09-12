@@ -31,9 +31,9 @@
 
 *[-> Java Fundamentals & OOPS Concepts](01_Basic-JAVA&OOP's/BasicQues.md)*
 
-*[-> Java OOPS - few points to remember](_moreReadMe/oopsRules)*
+*[-> Java OOPS - few points to remember](01_Basic-JAVA&OOP's/Key_Points.md)*
 
-*[-> Methods of Number, Char, String, Array Classes](_moreReadMe/importantMethods)*
+*[-> Methods of Number, Char, String, Array Classes](01_Basic-JAVA&OOP's/Important_Methods.md)*
 
 ### PROGRAMS :
 #### [01 Variables & Operators](01_Basic-JAVA&OOP's/Variable&Operator) 
