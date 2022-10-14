@@ -9,15 +9,13 @@
 ## [1] Java - Fundamentals & OOPS [Done]
 ### NOTES [Useful Info] :
 
-*[-> All 50 Java Keywords with definitions & examples](_moreReadMe/keywords)*
 
-*[-> Java Features, Execution Process & JVM Internals](_moreReadMe/howItWorks)*
 
 *[-> Java Fundamentals & OOPS Concepts](01_Basic-JAVA&OOP's/BasicQues.md)*
 
 *[-> Java OOPS - few points to remember](01_Basic-JAVA&OOP's/Key_Points.md)*
 
-*[-> Methods of Number, Char, String, Array Classes](01_Basic-JAVA&OOP's/Important_Methods.md)*
+
 
 ### PROGRAMS :
 #### [01 Variables & Operators](01_Basic-JAVA&OOP's/Variable&Operator) 
@@ -34,11 +32,21 @@
 
 #### [07 Association (has-a, part-of)](java_basicsI_and_oops/association)
 
-#### [Overloading](java_basicsI_and_oops/method_overloading) | [Overriding](java_basicsI_and_oops/method_overriding) | [super & final](java_basicsI_and_oops/super_and_final)
+#### [08 Overloading](java_basicsI_and_oops/method_overloading) 
 
-#### [Runtime Polymorphism](java_basicsI_and_oops/runtime_polymorphism) | [instanceof](java_basicsI_and_oops/instanceof)
+#### [09 Overriding](java_basicsI_and_oops/method_overriding) 
 
-#### [Abstraction](java_basicsI_and_oops/abstraction) | [Interfaces](java_basicsI_and_oops/interfaces) | [Encapsulation](java_basicsI_and_oops/encapsulation)
+#### [10 super & final](java_basicsI_and_oops/super_and_final)
+
+#### [11 Runtime Polymorphism](java_basicsI_and_oops/runtime_polymorphism) 
+
+#### [12 instanceof](java_basicsI_and_oops/instanceof)
+
+#### [13 Abstraction](java_basicsI_and_oops/abstraction) 
+
+#### [Interfaces](java_basicsI_and_oops/interfaces) 
+
+#### [Encapsulation](java_basicsI_and_oops/encapsulation)
 
 #### [Arrays](java_basicsI_and_oops/arrays) | [Strings](java_basicsI_and_oops/strings) | [Date & Time](java_basicsI_and_oops/date_time) | [Misc](java_basicsI_and_oops/miscellaneous)
 
